@@ -1,0 +1,21 @@
+#menu {
+    position:fixed;
+    left:-110px;
+    top:50px;
+    width:100px;
+    padding:5px;
+    background-color:lightblue;
+    transition:left 0.2s;
+}
+
+.frontMenu {
+    position:absolute;
+    width:50px;
+    right:-50px;
+}
+#buttonOpen {
+    top:0px;
+}
+#buttonClose {
+    bottom:0px;
+}
